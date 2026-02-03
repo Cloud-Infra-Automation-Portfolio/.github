@@ -1,4 +1,4 @@
-## Cloud Automation Portfolio
+## Cloud Infrastructure Automation Portfolio
 
 Welcome to my portfolio of hands-on Cloud Automation & DevSecOps. Each repository showcases practical projects that automate, secure and manage modern cloud environments—covering infrastructure as code, CI/CD pipelines, container and Kubernetes security, monitoring and compliance automation across AWS and Azure.
 
@@ -19,31 +19,11 @@ Welcome to my portfolio of hands-on Cloud Automation & DevSecOps. Each repositor
 | [policy-as-code](https://github.com/Cloud-Automation-Portfolio/policy-as-code)                           | Enforce security and compliance with OPA, AWS SCPs and Azure Policy in IaC pipelines.                                           |
 | [monitoring-automation](https://github.com/Cloud-Automation-Portfolio/monitoring-automation)             | Automated setup of monitoring, logging and alerting (AWS CloudWatch & Lambda, Azure and AKS, Grafana, Prometheus, etc.)         |
 
-* Click each repo name to view source code, documentation, diagrams and hands-on lab.
+---
+
+## Notes
+
 
 ---
 
-## Topics Covered
-
-- **Automation Scripts** – Automated cloud tagging, secrets rotation and compliance scripting with Python, Slack alarm, GitHub Actions and Prowler.
-- **Cloudformation Stacks** – Secure AWS VPC, IAM, S3 and EC2 provisioning with best practices, including nested stacks & StackSets.
-- **Terraform IaC** – End-to-end cloud security: IAM, networking, S3, loggin, and pipeline hardening.
-- **Bicep IaC** – Secure Azure automation: RBAC, Key Vault, storage and network security, as well as native functions, resource loops, inline conditionals & 'what-if'. 
-- **Ansible Automation** – OS hardening and secure provisioning for cloud VMs and containers.
-- **Container Security Pipeline** – Secure container build, scan and deployment pipelines; Docker, Kubernetes, GitHub Actions, Trivy, Grype and Cosign.
-- **Kubernetes IaC** – Hardened Kubernetes clusters (AKS/EKS) with policy as code (OPA Gatekeeper) Includes RBAC, NetworkPolicy, Admission Controllers and GitOps (ArgoCD)
-- **Github Actions Pipelines** – Secure CI/CD for multi-cloud Kubernetes with automated linting, testing, secret scanning, SAST, SBOM, vulnerability scans, container signing and gated deployments to AWS EKS & Azure AKS via OIDC, least-privilege RBAC and supply-chain security.
-- **Policy As Code** – Multi-cloud Policy-as-Code lab: Kubernetes OPA Gatekeeper, Azure Policy (Bicep), AWS SCPs, CI/CD with GitHub Actions, Security & Compliance Automation.
-- **Monitoring Automation** – End-to-end monitoring, logging and cloud alerting setup. Integrates AWS CloudWatch, Azure Monitor and Kubernetes (Prometheus/Grafana) into a single signed Alert Hub (API Gateway + Lambda) for ChatOps delivery. 
-
----
-
-## About Me
-
-Built and maintained by Sebastian Silva C. Passionate about automation, defense-in-depth and real-world hands-on learning. 
-CompTIA Security+, Network+, A+ and Azure AZ 900 certified.   
-*Contact me on [LinkedIn](https://www.linkedin.com/in/sebastiansilc) or [sebastian@playbookvisualarts.com](mailto:sebastian@playbookvisualarts.com)*
-
----
-
-Sebastian Silva C. - August, 2025 - Berlin, Germany
+Maintained by Sebastian Silva C. - Berlin, Germany
