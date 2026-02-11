@@ -1,6 +1,6 @@
-## Cloud Infrastructure Automation Portfolio
+## Multi-Cloud Infrastructure Automation
 
-This repository contains hands-on cloud infrastructure automation projects demonstrating how to provision, configure and operate cloud environments reliably using infrastructure-as-code and automation tooling.
+This repository contains hands-on multi-cloud infrastructure automation projects demonstrating how to provision, configure and operate cloud environments reliably using infrastructure-as-code and automation tooling.
 
 The projects focus on IaC, CI/CD pipelines, configuration management, monitoring and policy enforcement across AWS and Azure, reflecting real-world cloud operations and platform engineering practices.
 
